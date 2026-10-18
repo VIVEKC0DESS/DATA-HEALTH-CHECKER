@@ -1,2 +1,5 @@
 venv/
 __pycache__/
+big.csv
+latin.csv
+empty.csv
